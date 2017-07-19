@@ -1,6 +1,6 @@
 # Knowledge
 
-This project is a collaboration between the three of us. We collect knowledge and make a summary here on this wiki.
+This project is a collaboration between the [three of us](team.md). We collect knowledge and make a summary here on this wiki.
 
 ## Ressources
 
