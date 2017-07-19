@@ -29,3 +29,11 @@ Furthermore you can learn about the tools we use daily.
 
 The list goes on. We do not intend to provide comprehensive tutorials but rather rich introductions,
 getting started tools.
+
+## Excellence
+
+The goal of this website is to provide information on how softwares are developed and maintained in the
+"real" world. We strive to acquire knowledge and skills that will allow us to become professional software
+developers. On this section you will find knowledge about famous softwares and how they came to be,
+how they are designed, and what the challenges are when designing and building a professional software.
+
