@@ -5,6 +5,19 @@ At epitech we build projects from scratch but lack more abstract
 knowledge. This is why this website exists : practice is one thing,
 but we need a solid knowledge base to build software from.
 
-![felix](http://ageoflazies.herokuapp.com/images/felix.jpg =180x)
-![clara](http://ageoflazies.herokuapp.com/images/clara.jpg =180x)
-![michael](http://ageoflazies.herokuapp.com/images/michael.png =180x)
+<div class="row">
+<div class="col-md-4">
+<img src="http://ageoflazies.herokuapp.com/images/felix.jpg"><br>
+Felix
+</div>
+
+<div class="col-md-4">
+<img src="http://ageoflazies.herokuapp.com/images/felix.jpg"><br>
+Felix
+</div>
+
+<div class="col-md-4">
+<img src="http://ageoflazies.herokuapp.com/images/felix.jpg"><br>
+Felix
+</div>
+</div>
