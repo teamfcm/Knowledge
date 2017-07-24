@@ -3,7 +3,7 @@
 
 ## Deducing types
 
-+ Item1 : Understand template type deduction
++ [Item1](effectivemodern/item1.md) : Understand template type deduction
 + Item2 : Understand auto type deduction
 + Item3 : Understand decltype
 + Item4 : Know how to view deduced types
