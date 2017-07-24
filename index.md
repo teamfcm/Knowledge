@@ -5,7 +5,7 @@ This project is a collaboration between the [three of us](team.md). We collect k
 ## Ressources
 
 Here's the list of Ressources we worked on:
-+ [Effective C++]([Effective-Cpp]-Index) (Scott Meyers)
++ [Effective C++](effectivemoderncpp.md) (Scott Meyers)
 + [More Effective C++]([More-Effective-Cpp]-Index) (Scott Meyers)
 + [Effective Modern C++]([Effective-Modern-Cpp]-Index) (Scott Meyers)
 + Code Complete (Steve McConnell)

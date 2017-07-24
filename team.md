@@ -8,5 +8,5 @@ but we need a solid knowledge base to build software from.
 
 |Felix|Clara|Michael|
 |---|---|---|
-|<img src="http://ageoflazies.herokuapp.com/images/felix.jpg">|<img src="http://ageoflazies.herokuapp.com/images/clara.jpg">|<img src="http://ageoflazies.herokuapp.com/images/michael.png">|
+|<img src="http://ageoflazies.herokuapp.com/images/felix.jpg" width=150>|<img src="http://ageoflazies.herokuapp.com/images/clara.jpg" width=150>|<img src="http://ageoflazies.herokuapp.com/images/michael.png" width=150>|
 |felix.ganz@epitech.eu|clara.girard@epitech.eu|michael.halfon@epitech.eu|
