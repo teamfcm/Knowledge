@@ -1,4 +1,5 @@
 # Item 1 : Understand template type deduction
+<a href="Knowledge/effectivemodern.html" class="fork">Return</a>
 
 What's to remember ? 
 
