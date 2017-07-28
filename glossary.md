@@ -6,3 +6,9 @@
 + Nested Class
 + std::future
 + std::promise
++ vtable
++ virtual
++ cmake
++ g++
++ Variadic templates
+
