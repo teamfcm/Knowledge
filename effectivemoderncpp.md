@@ -1,4 +1,4 @@
-[Home](/)
+[Home](index.md)
 
 # Effective Modern C++
 *Scott Meyers* (2014)

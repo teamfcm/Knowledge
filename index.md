@@ -6,11 +6,10 @@ way to store our collective knowledge in a single easy-to-access place.
 ## Git
 
 ### [Wikipedia Definition](https://en.wikipedia.org/wiki/Git)
-<div style="text-align:justify">
 
 > Git **is a version control system** for tracking 
 **changes** in computer files and coordinating 
-work on those files among multiple people.
+work on those files among multiple people.  
 
 > It is primarily used for **source code
  management** in software development,
@@ -19,14 +18,12 @@ work on those files among multiple people.
   distributed revision control system it is
    aimed at speed, data integrity, and 
    support for distributed, non-linear 
-   workflows.
+   workflows.  
     
 > Git was created by **Linus Torvalds** in 
    2005 for development of the Linux 
    kernel, with other kernel developers 
-   contributing to its initial development.
-   
-</div>
+   contributing to its initial development.  
 
 ### Why use and understand GIT ?
 
