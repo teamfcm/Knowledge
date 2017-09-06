@@ -7,8 +7,6 @@ way to store our collective knowledge in a single easy-to-access place.
 
 ### [Wikipedia Definition](https://en.wikipedia.org/wiki/Git)
 
-> Simple Blockquote for testing
-
 > Git **is a version control system** for tracking 
 > **changes** in computer files and coordinating 
 > work on those files among multiple people.  
