@@ -39,7 +39,7 @@ will make it easy to correct said mistakes, using GIT **incorrectly**
 will only make matters worse, 
 eventually condemning you to start from a clean, old basis. You want to avoid this at all cost.
 
-So don't waste a second and look at our **[GIT tutorials](gittutorials.md)**!
+So don't waste a second and look at our **[GIT tutorials](gittutorial.md)**!
 
 ## Ressources
 
