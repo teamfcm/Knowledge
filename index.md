@@ -1,5 +1,3 @@
-# Knowledge
-
 This project is a collaboration between the [three of us](team.md). We use this website as a 
 way to store our collective knowledge in a single easy-to-access place.
 
