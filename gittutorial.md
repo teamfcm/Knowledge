@@ -6,27 +6,29 @@
 
 > Introduction
 
-> I **Basis**
+> I **Basics**
 
-> > * How to install git
-> > * How to create a new git repository on github.com
-> > * How to use git
+> > * [How to install git](git/install.md)
+> > * [How to create a new git repository on github.com](git/create.md)
+> > * [How to use git](git/use.md)
 
 > II **Commands**
 
-> > * add
-> > * commit
-> > * log
-> > * push
-> > * pull
-> > * other basic commands
+> > * [add](git/add.md)
+> > * [commit](git/commit.md)
+> > * [log](git/log.md)
+> > * [push](git/push.md)
+> > * [pull](git/pull.md)
+> > * [other basic commands](git/other.md)
 
 > III **Branches**
 
-> > * What are git branches ?
-> > * Creating a branch
-> > * Deleting a branch
-> > * Merge branches
-> > * Rebase branch
+> > * [What are git branches ?](git/branches/what.md)
+> > * [Creating a branch](git/branches/create.md)
+> > * [Deleting a branch](git/branches/delete.md)
+> > * [Merge branches](git/branches/merge.md)
+> > * [Rebase branch](git/branches/rebase.md)
 
-> IV **A complete example**
+> IV **[A complete example](git/example.md)**
+
+## Introduction
