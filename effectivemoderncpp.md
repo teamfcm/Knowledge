@@ -1,3 +1,4 @@
+[Home](/)
 
 # Effective Modern C++
 *Scott Meyers* (2014)

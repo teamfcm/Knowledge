@@ -1,3 +1,5 @@
+[Home](/)
+
 # Our Team
 
 We are 3 students at [{epitech paris}](http://www.epitech.eu).
