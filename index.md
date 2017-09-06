@@ -7,23 +7,25 @@ way to store our collective knowledge in a single easy-to-access place.
 
 ### [Wikipedia Definition](https://en.wikipedia.org/wiki/Git)
 
+> Simple Blockquote for testing
+
 > Git **is a version control system** for tracking 
-**changes** in computer files and coordinating 
-work on those files among multiple people.  
+> **changes** in computer files and coordinating 
+> work on those files among multiple people.  
 
 > It is primarily used for **source code
- management** in software development,
-  but it can be used to keep track of 
-  changes in any set of files. As a 
-  distributed revision control system it is
-   aimed at speed, data integrity, and 
-   support for distributed, non-linear 
-   workflows.  
+> management** in software development,
+> but it can be used to keep track of 
+> changes in any set of files. As a 
+> distributed revision control system it is
+> aimed at speed, data integrity, and 
+> support for distributed, non-linear 
+> workflows.  
     
 > Git was created by **Linus Torvalds** in 
-   2005 for development of the Linux 
-   kernel, with other kernel developers 
-   contributing to its initial development.  
+> 2005 for development of the Linux 
+> kernel, with other kernel developers 
+> contributing to its initial development.  
 
 ### Why use and understand GIT ?
 
