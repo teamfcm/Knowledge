@@ -1,5 +1,4 @@
 [Home](index.md)
-_____
 
 > Introduction
 
