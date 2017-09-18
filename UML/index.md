@@ -47,11 +47,10 @@ There are four kinds of relationships available.
 + [Generalization](./generalization_relationship.md)
 + [Realization](./realization_relationship.md)
 
-UML Diagrams
+### UML Diagrams
+
 UML diagrams are the ultimate output of the entire discussion. All the elements, relationships are used to make a complete UML diagram and the diagram represents a system.
-
 The visual effect of the UML diagram is the most important part of the entire process. All the other elements are used to make it complete.
-
 UML includes the following nine diagrams, the details of which are described in the subsequent chapters.
 
 + [Class diagram](./diagrams/class.md)
