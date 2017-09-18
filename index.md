@@ -1,7 +1,17 @@
 > |[Home](/index.md)|[Git](/gittutorial.md)|[Uml](/UML/index.md)
 
 This project is a collaboration between the [three of us](team.md). We use this website as a 
-way to store our collective knowledge in a single easy-to-access place.
+way to store our collective knowledge in a single easy-to-access place. 
+
+Update : There is now 6 of us, we are all actively looking for improving both our knowledge and english **writing** skills.
+
+Visit our Github team at [TeamFcm](https://github.com/teamfcm) :)
+
+_________________
+
+We are currently offering the following categories :
+
+> |[Git](./Git)|[Uml](./UML)|[C++](./Cpp)|[Glossary](./Glossary)
 
 ## Git
 
@@ -18,8 +28,8 @@ way to store our collective knowledge in a single easy-to-access place.
 > distributed revision control system it is
 > aimed at speed, data integrity, and 
 > support for distributed, non-linear 
-> workflows.  
-    
+> workflows. 
+
 > Git was created by **Linus Torvalds** in 
 > 2005 for development of the Linux 
 > kernel, with other kernel developers 
