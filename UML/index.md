@@ -31,10 +31,10 @@ There are three building blocks for UML :
 
 Things are the most important building blocks of UML. Things can be −
 
-+ [Structural](./structural_things.md)
-+ [Behavioral](./behavioral_things.md)
-+ [Grouping](./grouping_things.md)
-+ [Annotational](./annotational_things.md)
++ [Structural](./structural_things)
++ [Behavioral](./behavioral_things)
++ [Grouping](./grouping_things)
++ [Annotational](./annotational_things)
 
 ### Relationships
 
@@ -42,10 +42,10 @@ Relationship is another most important building block of UML. It shows how the e
 
 There are four kinds of relationships available.
 
-+ [Dependency](./dependency_relationship.md)
-+ [Association](./association_relationship.md)
-+ [Generalization](./generalization_relationship.md)
-+ [Realization](./realization_relationship.md)
++ [Dependency](./dependency_relationship)
++ [Association](./association_relationship)
++ [Generalization](./generalization_relationship)
++ [Realization](./realization_relationship)
 
 ### UML Diagrams
 
@@ -53,12 +53,12 @@ UML diagrams are the ultimate output of the entire discussion. All the elements,
 The visual effect of the UML diagram is the most important part of the entire process. All the other elements are used to make it complete.
 UML includes the following nine diagrams, the details of which are described in the subsequent chapters.
 
-+ [Class diagram](./diagrams/class.md)
-+ [Object diagram ](./diagrams/object.md)
-+ [Use case diagram ](./diagrams/use_case.md)
-+ [Sequence diagram ](./diagrams/sequence.md)
-+ [Collaboration diagram ](./diagrams/collaboration.md)
-+ [Activity diagram ](./diagrams/activity.md)
-+ [Statechart diagram ](./diagrams/statechart.md)
-+ [Deployment diagram ](./diagrams/deployment.md)
-+ [Component diagram ](./diagrams/component.md)
++ [Class diagram](./diagrams/class)
++ [Object diagram ](./diagrams/object)
++ [Use case diagram ](./diagrams/use_case)
++ [Sequence diagram ](./diagrams/sequence)
++ [Collaboration diagram ](./diagrams/collaboration)
++ [Activity diagram ](./diagrams/activity)
++ [Statechart diagram ](./diagrams/statechart)
++ [Deployment diagram ](./diagrams/deployment)
++ [Component diagram ](./diagrams/component)
