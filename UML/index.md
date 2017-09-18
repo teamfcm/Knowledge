@@ -53,12 +53,12 @@ UML diagrams are the ultimate output of the entire discussion. All the elements,
 The visual effect of the UML diagram is the most important part of the entire process. All the other elements are used to make it complete.
 UML includes the following nine diagrams, the details of which are described in the subsequent chapters.
 
-+ [Class diagram](./diagrams/class)
-+ [Object diagram ](./diagrams/object)
-+ [Use case diagram ](./diagrams/use_case)
-+ [Sequence diagram ](./diagrams/sequence)
-+ [Collaboration diagram ](./diagrams/collaboration)
-+ [Activity diagram ](./diagrams/activity)
-+ [Statechart diagram ](./diagrams/statechart)
-+ [Deployment diagram ](./diagrams/deployment)
-+ [Component diagram ](./diagrams/component)
++ [Class diagram](./diagrams/class_diagram)
++ [Object diagram ](./diagrams/object_diagram)
++ [Use case diagram ](./diagrams/use_case_diagram)
++ [Sequence diagram ](./diagrams/sequence_diagram)
++ [Collaboration diagram ](./diagrams/collaboration_diagram)
++ [Activity diagram ](./diagrams/activity_diagram)
++ [Statechart diagram ](./diagrams/statechart_diagram)
++ [Deployment diagram ](./diagrams/deployment_diagram)
++ [Component diagram ](./diagrams/component_diagram)
