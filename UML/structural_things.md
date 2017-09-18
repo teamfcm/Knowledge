@@ -1,4 +1,4 @@
-> |[Home](../index.md)|[Uml](/Knowledge/UML/index.md)|
+> |[Home](../index)|[Uml](/Knowledge/UML/index)|
  
 # Structural things
  
