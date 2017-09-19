@@ -10,13 +10,13 @@ Sometimes, attributes can have **default value** (Ex: flightNumber : Interger = 
 
 To display **visibility** on the class diagram, you place the visibility mark in front of the attribute's or operation's name.
 
-- means private.
+"-" means private.
 
-+ means public.
+"+" means public.
 
-~ means package.
+"~" means package.
 
-# means protected.
+"#" means protected.
 
 
 **Inheritance** is indicated by a solid line with a closed, unfilled arrowhead pointing at the super class.
@@ -27,11 +27,11 @@ A **bi-directional** association is indicated by a solid line between the two cl
 
 ![IMG](https://www.ibm.com/developerworks/rational/library/content/RationalEdge/sep04/bell/bell_fig6.jpg)
 
-0..*/ means zero or more
+"0..*" means zero or more
 
-0..1 means zero or one
+"0..1" means zero or one
 
-0..5 means zero to five
+"0..5" means zero to five
 
 
 In a **uni-directional** association, two classes are related, but only one class knows that the relationship exists.
