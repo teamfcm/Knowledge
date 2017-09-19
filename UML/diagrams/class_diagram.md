@@ -16,11 +16,11 @@ A bi-directional association is indicated by a solid line between the two classe
 
 ![IMG](https://www.ibm.com/developerworks/rational/library/content/RationalEdge/sep04/bell/bell_fig6.jpg)
 
-0..* means zero or more
+0..*\ means zero or more.
 
-0..1 means zero or one
+0..1 means zero or one.
 
-0..5 means zero to five
+0..5 means zero to five.
 
 
 In a uni-directional association, two classes are related, but only one class knows that the relationship exists.
