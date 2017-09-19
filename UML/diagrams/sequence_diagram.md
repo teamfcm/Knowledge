@@ -4,3 +4,6 @@
 
 ![IMG](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/CheckEmail.svg/880px-CheckEmail.svg.png)
 
+> All you need in the next video
+[![DiagramVideo](http://videos.elephorm.com/programmation-orientee-objet/le-diagramme-de-sequence/video)]
+(http://videos.elephorm.com/programmation-orientee-objet/le-diagramme-de-sequence/video)
