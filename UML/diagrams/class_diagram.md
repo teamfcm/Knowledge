@@ -6,11 +6,11 @@ The top compartment shows the class's name. The middle compartment lists the cla
 
 ![IMG](https://www.ibm.com/developerworks/rational/library/content/RationalEdge/sep04/bell/bell_fig1.jpg)
 
-Sometimes, attributes can have default value (Ex: flightNumber : Interger = 0).
+>>* Sometimes, attributes can have default value (Ex: flightNumber : Interger = 0).
 
-Inheritance is indicated by a solid line with a closed, unfilled arrowhead pointing at the super class.
+>>* Inheritance is indicated by a solid line with a closed, unfilled arrowhead pointing at the super class.
 
-An association is a linkage between two classes.
+>>* An association is a linkage between two classes.
 
 A bi-directional association is indicated by a solid line between the two classes. At either end of the line, you place a role name and a multiplicity value. 
 
@@ -28,4 +28,3 @@ In a uni-directional association, two classes are related, but only one class kn
 A uni-directional association is drawn as a solid line with an open arrowhead
 
 ![IMG](https://www.ibm.com/developerworks/rational/library/content/RationalEdge/sep04/bell/bell_fig7.jpg)
-
