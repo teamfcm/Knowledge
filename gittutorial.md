@@ -1,6 +1,6 @@
 [Home](index.md)
 
-> *Tutorial written by **Felix Ganz*** | Last updated on 07/09/17
+> *Tutorial written by **Felix Ganz***
 
 I **Basics**
 
